@@ -3,7 +3,7 @@
 A simple and responsive **Image Search Application** built with **HTML, CSS, and JavaScript** that fetches images from a public API and displays them dynamically.
 
 🔗 **Live Demo:**  
-https://rawcdn.githack.com/ranjeetchauhan123/Image-search-APP/acd2c278ff49dacdc3eb31c23752af0444067ca6/index.html
+
 
 ---
 
